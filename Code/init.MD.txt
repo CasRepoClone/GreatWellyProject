@@ -1,0 +1,5 @@
+# Code
+
+Directory storing software implemented for the GreatWellyProject2020
+
+# Collaborators: @ivanred6 and ______
